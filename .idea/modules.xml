@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaweb20190325hs.iml" filepath="$PROJECT_DIR$/javaweb20190325hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190326hs/javaweb20190326hs.iml" filepath="$PROJECT_DIR$/../javaweb20190326hs/javaweb20190326hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190327hhs/javaweb20190327hhs.iml" filepath="$PROJECT_DIR$/../javaweb20190327hhs/javaweb20190327hhs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190328DAOhs/javaweb20190328DAOhs.iml" filepath="$PROJECT_DIR$/../javaweb20190328DAOhs/javaweb20190328DAOhs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190328hs/javaweb20190328hs.iml" filepath="$PROJECT_DIR$/../javaweb20190328hs/javaweb20190328hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190329hs/javaweb20190329hs.iml" filepath="$PROJECT_DIR$/../javaweb20190329hs/javaweb20190329hs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaweb20190401hs/javaweb20190401hs.iml" filepath="$PROJECT_DIR$/../javaweb20190401hs/javaweb20190401hs.iml" />
+    </modules>
+  </component>
+</project>
